@@ -1,0 +1,4 @@
+pyinstaller -F -w RandomRollCall.py
+pyinstaller -F -w  --version-file RandomRollCall_version.py RandomRollCall.py
+pyinstaller -F -w -i icon.ico --version-file RandomRollCall_version.py RandomRollCall.py
+pyinstaller -F -w -i RandomRollCall.ico --version-file RandomRollCall_version.py RandomRollCall.py
