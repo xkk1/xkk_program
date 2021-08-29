@@ -1,0 +1,23 @@
+{
+    "uid": "513689605",
+    "font": [
+        "\u9ed1\u4f53",
+        20
+    ],
+    "foreground": "white",
+    "background": "black",
+    "toolwindow": true,
+    "alpha": "0.7",
+    "transparentcolor": [
+        false,
+        "white"
+    ],
+    "topmost": true,
+    "overrideredirect": true,
+    "update_time": 300.0,
+    "title_length": 15,
+    "version": "0.0.6",
+    "program": "B\u7ad9up\u4e3b\u4fe1\u606f\u663e\u793a",
+    "author": "\u5c0f\u55be\u82e6",
+    "form": "  up\u4e3b  \uff1a{\u540d\u5b57}\t\u7c89 \u4e1d \u6570\uff1a{\u7c89\u4e1d\u6570}\n\u6700\u65b0\u89c6\u9891\uff1a{\u6807\u9898}\n\u64ad\u653e\u6b21\u6570\uff1a{\u64ad\u653e\u6570}\t\t\u5f39 \u5e55 \u6570\uff1a{\u5f39\u5e55\u6570}\n\u70b9 \u8d5e \u6570\uff1a{\u70b9\u8d5e\u6570}\t\t\u6295 \u5e01 \u6570\uff1a{\u6295\u5e01\u679a\u6570}\n\u6536 \u85cf \u6570\uff1a{\u6536\u85cf\u4eba\u6570}\t\t\u5206\u4eab\u6b21\u6570\uff1a{\u5206\u4eab\u6b21\u6570}\n\u8bc4 \u8bba \u6570\uff1a{\u8bc4\u8bba\u6570}"
+}
