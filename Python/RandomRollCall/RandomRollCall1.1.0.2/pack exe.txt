@@ -1,1 +1,0 @@
-pyinstaller -w -i program\image\RandomRollCall.ico --version-file RandomRollCall_version.py RandomRollCall.py
